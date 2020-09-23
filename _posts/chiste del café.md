@@ -1,0 +1,1 @@
+“Algú demana un cafè llarg sense llet a un restaurant. Qui l’atén li contesta que li sap greu, que no tenen llet, que sols tenen nata, pel que tan sols li pot oferir un cafè sense nata.”
