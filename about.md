@@ -5,7 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-Simplemente probando si esto funciona o que
+Simplemente probando si esto funciona o que??
 
 As of now, I am a programmer with expertise in System Programming (especially C++), who is also interested in Computer Graphics, Compiler Design, and Some Embedded Systems. [[Here::https://github.com/raghuveerdotnet]] is my coding scratchpad if you are interested.
 
