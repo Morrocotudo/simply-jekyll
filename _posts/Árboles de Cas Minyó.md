@@ -1,3 +1,9 @@
+---
+title: Arbolitos
+tags: arboles
+comments: true
+---
+
 Hemos recogido los melocotones de [[Ca's Minyó]] durante la segunda semana de junio.
 La mayoría de ellos estaban picados al n haberlos tratado prevnentivamente.
 
