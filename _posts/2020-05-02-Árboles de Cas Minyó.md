@@ -7,6 +7,8 @@ comments: true
 Hemos recogido los melocotones de [[Ca's Minyó]] durante la segunda semana de junio.
 La mayoría de ellos estaban picados al n haberlos tratado prevnentivamente.
 
+Nada qu ver con [[Notion]]
+
 Lista:
 [[Prunus domestica]] x10
 [[Microcitrus australasica]] x1
@@ -16,3 +18,4 @@ Lista:
 [[Mespilus japonica]] x2
 [Citrus × hystrix - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Citrus_%C3%97_hystrix)
 [Galangal - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Galangal)
+
