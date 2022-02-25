@@ -7,7 +7,7 @@ content-type: eg
 
 Simplemente probando si esto funciona o que??
 
-As of now, I am a programmer with expertise in System Programming (especially C++), who is also interested in Computer Graphics, Compiler Design, and Some Embedded Systems. [[Here::https://github.com/raghuveerdotnet]] is my coding scratchpad if you are interested.
+Parece que masomenos funka
 
 Over the course of time, I have developed interest in many things including cognitive science, mathematics, and philosophy; and my personal penchant is to one day create a software system that I call the CogShell (Short for the  Cognitive Shell[[See my writeup on it: [here](/posts/cogshell)::rsn]]): A highly interconnnected software toolkit with all the essential tools to support thought continuity through tacit object permanance.
 
