@@ -1,1 +1,0 @@
-[CRITI-CARLOS: ¿Donde meto mi dinero? ¿Y mi nómina? ¿Es seguro tener el dinero en el banco? [V4.2] [Actualizado a 05-06-17]](http://criti-carlos.blogspot.com/2012/05/donde-meto-mi-dinero.html)
